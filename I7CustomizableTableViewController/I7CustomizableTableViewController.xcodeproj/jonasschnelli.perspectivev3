@@ -231,6 +231,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -311,8 +313,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -330,21 +330,22 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>E5C687531110568D00E6BA57</string>
+										<string>E5C6883F1110683000E6BA57</string>
 										<key>history</key>
 										<array>
 											<string>E5C685AA111037CB00E6BA57</string>
 											<string>E5C685B0111037CB00E6BA57</string>
-											<string>E5C685DE11103A9E00E6BA57</string>
 											<string>E5C685DF11103A9E00E6BA57</string>
 											<string>E5C6869411104BD100E6BA57</string>
 											<string>E5C6873C1110531D00E6BA57</string>
-											<string>E5C6874D1110568D00E6BA57</string>
 											<string>E5C6874E1110568D00E6BA57</string>
 											<string>E5C6874F1110568D00E6BA57</string>
 											<string>E5C687501110568D00E6BA57</string>
 											<string>E5C687511110568D00E6BA57</string>
-											<string>E5C687521110568D00E6BA57</string>
+											<string>E5C687711110631200E6BA57</string>
+											<string>E5C687731110631200E6BA57</string>
+											<string>E5C6883D1110683000E6BA57</string>
+											<string>E5C6883E1110683000E6BA57</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -358,18 +359,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1074, 489}}</string>
+								<string>{{0, 0}, {1074, 475}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 114 1440 764 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>489pt</string>
+							<string>475pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>229pt</string>
+							<string>243pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -383,7 +384,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1161, 202}}</string>
+										<string>{{10, 27}, {1074, 216}}</string>
+										<key>RubberWindowFrame</key>
+										<string>0 114 1440 764 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -438,8 +441,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {1074, 202}}</string>
-										<key>RubberWindowFrame</key>
-										<string>0 114 1440 764 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -467,11 +468,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>E5C68575111032DD00E6BA57</string>
+				<string>E5C688401110683000E6BA57</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>E5C68576111032DD00E6BA57</string>
+				<string>E5C688411110683000E6BA57</string>
 				<string>E5C68573111032DD00E6BA57</string>
-				<string>E5C68577111032DD00E6BA57</string>
+				<string>E5C688421110683000E6BA57</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -661,10 +662,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>E5C687541110568D00E6BA57</string>
-		<string>E5C685B4111037CB00E6BA57</string>
-		<string>E5C68580111032DD00E6BA57</string>
-		<string>/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/I7CustomizableTableViewController.xcodeproj</string>
+		<string>/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/i7CustomizableTableViewController.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 114 1440 764 0 0 1440 878 </string>

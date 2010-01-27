@@ -1,10 +1,11 @@
 Version
 =======
-0.1
+0.11
 
 Changelog
 ==========
-01/27/2010 � Version 0.1 - package started
+01/27/2010 – Version 0.11 - small fix for calling a superclass methode (viewWillAppear)
+01/27/2010 – Version 0.1 - package started
 
 Author
 ======

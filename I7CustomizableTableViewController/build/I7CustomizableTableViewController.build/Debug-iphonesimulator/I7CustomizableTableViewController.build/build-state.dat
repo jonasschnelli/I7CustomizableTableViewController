@@ -75,23 +75,23 @@ i<Foundation/Foundation.h>
 i"I7CustomizableTableViewCell.h"
 
 N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/Classes/ACustomTableViewCell.m
-c000000004B601B65000000000000022C
-t1264589669
-s556
+c000000004B601EB10000000000000273
+t1264590513
+s627
 i"ACustomTableViewCell.h"
 
 N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/Classes/ATableViewControllerSubclass.h
-c000000004B60136000000000000001A5
-t1264587616
-s421
+c000000004B601E8400000000000001A6
+t1264590468
+s422
 i<Foundation/Foundation.h>
 i"I7CustomizableTableViewController.h"
 i"ACustomTableViewCell.h"
 
 N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/Classes/ATableViewControllerSubclass.m
-c000000004B6016FB0000000000000B5C
-t1264588539
-s2908
+c000000004B601F0C0000000000000BDA
+t1264590604
+s3034
 i"ATableViewControllerSubclass.h"
 
 N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/Classes/I7CustomizableTableViewCell.h
@@ -331,6 +331,226 @@ t1264581452
 s384
 i<UIKit/UIKit.h>
 
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/ACustomTableViewCell.h
+c000000004B600E64000000000000013F
+t1264586340
+s319
+i<Foundation/Foundation.h>
+i"I7CustomizableTableViewCell.h"
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/ACustomTableViewCell.m
+c000000004B601EB10000000000000273
+t1264590513
+s627
+i"ACustomTableViewCell.h"
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/ATableViewControllerSubclass.h
+c000000004B601E8400000000000001A6
+t1264590468
+s422
+i<Foundation/Foundation.h>
+i"I7CustomizableTableViewController.h"
+i"ACustomTableViewCell.h"
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/ATableViewControllerSubclass.m
+c000000004B601F0C0000000000000BDA
+t1264590604
+s3034
+i"ATableViewControllerSubclass.h"
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/I7CustomizableTableViewCell.h
+c000000004B601B800000000000000281
+t1264589696
+s641
+i<Foundation/Foundation.h>
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/I7CustomizableTableViewCell.m
+c000000004B601C180000000000000861
+t1264589848
+s2145
+i"I7CustomizableTableViewCell.h"
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/I7CustomizableTableViewController.h
+c000000004B60004500000000000001BD
+t1264582725
+s445
+i<Foundation/Foundation.h>
+i"I7CustomizableTableViewCell.h"
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/I7CustomizableTableViewController.m
+c000000004B60027100000000000002CF
+t1264583281
+s719
+i"I7CustomizableTableViewController.h"
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/I7CustomizableTableViewControllerAppDelegate.h
+c000000004B5FFB4C0000000000000205
+t1264581452
+s517
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/I7CustomizableTableViewControllerAppDelegate.m
+c000000004B5FFFBB000000000000037C
+t1264582587
+s892
+i"I7CustomizableTableViewControllerAppDelegate.h"
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/I7CustomizableTableViewController_Prefix.pch
+c000000004B5FFB4C0000000000000174
+t1264581452
+s372
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/MainWindow.xib
+c000000004B601C460000000000006558
+t1264589894
+s25944
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/backgroundimage.png
+c000000004B5FFD05000000000000258F
+t1264581893
+s9615
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app
+t1264589895
+s544
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app.dSYM
+t1264589850
+s102
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/I7CustomizableTableViewController
+t1264589850
+s29908
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/Info.plist
+t1264581467
+s674
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/MainWindow.nib
+t1264589895
+s2933
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/PkgInfo
+t1264581467
+s8
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/backgroundimage.png
+t1264581906
+s9615
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/customcell_background_bottom.png
+t1264586925
+s628
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/customcell_background_bottom_.png
+t1264588493
+s746
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/customcell_background_middle.png
+t1264587444
+s3106
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/customcell_background_middle_.png
+t1264589821
+s467
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/customcell_background_single.png
+t1264586236
+s686
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/customcell_background_single_.png
+t1264588493
+s792
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/customcell_background_top.png
+t1264587373
+s527
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/customcell_background_top_.png
+t1264588493
+s616
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/ACustomTableViewCell.o
+t1264589725
+s17856
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/ATableViewControllerSubclass.o
+t1264589725
+s39984
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/I7CustomizableTableViewCell.o
+t1264589850
+s20664
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/I7CustomizableTableViewController.LinkFileList
+c000000004B600E5D0000000000000642
+t1264586333
+s1602
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/I7CustomizableTableViewController.o
+t1264589725
+s32164
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/I7CustomizableTableViewControllerAppDelegate.o
+t1264582588
+s40564
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/main.o
+t1264581468
+s6100
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/customcell_background_bottom.png
+c000000004B600F940000000000000274
+t1264586644
+s628
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/customcell_background_bottom_.png
+c000000004B6016A400000000000002EA
+t1264588452
+s746
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/customcell_background_middle.png
+c000000004B6012B00000000000000C22
+t1264587440
+s3106
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/customcell_background_middle_.png
+c000000004B601BF900000000000001D3
+t1264589817
+s467
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/customcell_background_single.png
+c000000004B600A3E00000000000002AE
+t1264585278
+s686
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/customcell_background_single_.png
+c000000004B6016B60000000000000318
+t1264588470
+s792
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/customcell_background_top.png
+c000000004B601269000000000000020F
+t1264587369
+s527
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/customcell_background_top_.png
+c000000004B6016AD0000000000000268
+t1264588461
+s616
+
+N/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/main.m
+c000000004B5FFB4C0000000000000180
+t1264581452
+s384
+i<UIKit/UIKit.h>
+
+N/var/folders/dI/dIEgN60RFBeJl9BN4wtSBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I7CustomizableTableViewController_Prefix-arysagpixxnrxrfdvlohtjcmgyyt/I7CustomizableTableViewController_Prefix.pch.gch
+t2
+s0
+
 N/var/folders/dI/dIEgN60RFBeJl9BN4wtSBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I7CustomizableTableViewController_Prefix-btngckmiudvennasvnbiekqzsbht/I7CustomizableTableViewController_Prefix.pch.pth
 t1264587649
 s1728300
@@ -487,6 +707,24 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@124"Compile /Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/main.m286274268#286274268#0(0"0(0#0#116"/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/main.m4300885448#3182"    cd "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/I7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/I7CustomizableTableViewController-generated-files.hmap" "-I/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/I7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/I7CustomizableTableViewController-own-target-headers.hmap" "-I/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/I7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/I7CustomizableTableViewController-all-target-headers.hmap" -iquote "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/I7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/I7CustomizableTableViewController-project-headers.hmap" "-F/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator" "-I/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/include" "-I/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/I7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/DerivedSources/i386" "-I/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/I7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/DerivedSources" -include /var/folders/dI/dIEgN60RFBeJl9BN4wtSBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I7CustomizableTableViewController_Prefix-dgnyoybtcgkicggbdewzfshusdch/I7CustomizableTableViewController_Prefix.pch -c "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/main.m" -o "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/I7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/main.o"0#
 
+CCompileC build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/ACustomTableViewCell.o "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/ACustomTableViewCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/ATableViewControllerSubclass.o "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/ATableViewControllerSubclass.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/I7CustomizableTableViewCell.o "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/I7CustomizableTableViewCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/I7CustomizableTableViewController.o "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/I7CustomizableTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/I7CustomizableTableViewControllerAppDelegate.o "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/Classes/I7CustomizableTableViewControllerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/i7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/main.o "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileXIB "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/MainWindow.xib"
 s286282695.513028
 e286282695.936028
@@ -502,6 +740,9 @@ r1
 xCompileXIB
 x/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/RootViewController.xib
 lSLF07#2@33"CompileXIB RootViewController.xib286274267#286274268#0(0"0(0#0#132"/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/RootViewController.xib4300885448#743"    cd "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/RootViewController.nib" "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/RootViewController.xib"0#
+
+CCompileXIB "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/MainWindow.xib"
+r0
 
 CCpResource build/Debug-iphonesimulator/I7CustomizableTableViewController.app/backgroundimage.png backgroundimage.png
 s286274706.269684
@@ -593,6 +834,9 @@ x/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7C
 x/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/I7CustomizableTableViewController
 lSLF07#2@187"GenerateDSYMFile build/Debug-iphonesimulator/I7CustomizableTableViewController.app.dSYM build/Debug-iphonesimulator/I7CustomizableTableViewController.app/I7CustomizableTableViewController286282650#286282650#0(0"0(0#0#209"/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/I7CustomizableTableViewController4300885448#680"    cd "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/I7CustomizableTableViewController" -o "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app.dSYM"0#
 
+CGenerateDSYMFile "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app.dSYM" "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/I7CustomizableTableViewController"
+r0
+
 CLd "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/I7CustomizableTableViewController" normal i386
 s286282650.663012
 e286282650.680148
@@ -603,6 +847,9 @@ xnormal
 xi386
 lSLF07#2@214"Link /Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/I7CustomizableTableViewController286282650#286282650#0(0"0(0#0#0"4300885448#1359"    cd "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator" "-F/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator" -filelist "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/I7CustomizableTableViewController.build/Debug-iphonesimulator/I7CustomizableTableViewController.build/Objects-normal/i386/I7CustomizableTableViewController.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/I7CustomizableTableViewController"0#
 
+CLd "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/I7CustomizableTableViewController" normal i386
+r0
+
 CProcessInfoPlistFile "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/Info.plist" I7CustomizableTableViewController-Info.plist
 s286274267.786631
 e286274267.790366
@@ -611,6 +858,12 @@ xProcessInfoPlistFile
 x/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/Info.plist
 xI7CustomizableTableViewController-Info.plist
 lSLF07#2@52"Process I7CustomizableTableViewController-Info.plist286274267#286274267#0(0"0(0#0#154"/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/I7CustomizableTableViewController-Info.plist4300885448#776"    cd "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility I7CustomizableTableViewController-Info.plist -genpkginfo "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app/Info.plist" I7CustomizableTableViewController-Info.plist
+r0
+
+CProcessPCH /var/folders/dI/dIEgN60RFBeJl9BN4wtSBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I7CustomizableTableViewController_Prefix-arysagpixxnrxrfdvlohtjcmgyyt/I7CustomizableTableViewController_Prefix.pch.gch I7CustomizableTableViewController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CProcessPCH /var/folders/dI/dIEgN60RFBeJl9BN4wtSBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/I7CustomizableTableViewController_Prefix-btngckmiudvennasvnbiekqzsbht/I7CustomizableTableViewController_Prefix.pch.pth I7CustomizableTableViewController_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
 s286280448.956492
@@ -645,4 +898,7 @@ r1
 xTouch
 x/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app
 lSLF07#2@181"Touch /Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app286282695#286282695#0(0"0(0#0#0"4300885448#450"    cd "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/I7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app"0#
+
+CTouch "/Users/jonasschnelli/Documents/Dev iPhone/I7CustomizableTableViewController/i7CustomizableTableViewController/build/Debug-iphonesimulator/I7CustomizableTableViewController.app"
+r0
 

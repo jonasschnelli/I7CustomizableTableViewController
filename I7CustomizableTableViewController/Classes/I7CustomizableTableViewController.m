@@ -14,7 +14,8 @@
 @synthesize backgroundImage;
 
 - (void)viewWillAppear:(BOOL)animated {
-
+	[super viewWillAppear:animated];
+	
 	/* create the backdrop */
 	UIView *bgview = [[[UIImageView alloc] initWithImage:backgroundImage]autorelease];
 	
